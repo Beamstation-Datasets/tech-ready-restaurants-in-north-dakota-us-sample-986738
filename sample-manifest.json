@@ -1,12 +1,12 @@
 {
-  "export_job_id": "53e405a3-b255-4355-82a1-93f2036beede",
+  "export_job_id": "ad9d9a40-0541-4d88-959f-2ab2bb60fb67",
   "id_short": 986738,
-  "published_at": "2026-04-19T07:43:28Z",
+  "published_at": "2026-04-29T19:02:01Z",
   "repo_name": "tech-ready-restaurants-in-north-dakota-us-sample-986738",
   "sample_asset_name": "beamstation_986738_restaurants-us-nd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/986738/beamstation_986738_restaurants-us-nd_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "2729c30ecfdbd66a42d10fa99e55ca683e9f401f95d3a34525ab7073e121e094",
-  "sample_size_bytes": 20171,
-  "total_records": 2
+  "sample_sha256": "eabc518c450b0033b5f88390ea68ad69e6ecfeb9f41861715bd5a5da770107b2",
+  "sample_size_bytes": 19860,
+  "total_records": 17
 }
